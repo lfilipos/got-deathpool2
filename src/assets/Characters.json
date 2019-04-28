@@ -1,0 +1,194 @@
+{
+  "characters": [
+    {
+      "name": "The Night King",
+      "alias": "",
+      "canWight": false
+    },
+    {
+      "name": "Jon Snow",
+      "alias": "Aegon Targaryen VI",
+      "canWight": true
+    },
+    {
+      "name": "Sansa Stark",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Arya Stark",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Bran Stark",
+      "alias": "The Three Eyed Raven",
+      "canWight": true
+    },
+    {
+      "name": "Daenerys Targaryen",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Missandei",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Grey Worm",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Qyburn",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Melisandre",
+      "alias": "Red Woman)",
+      "canWight": true
+    },
+    {
+      "name": "Sandor Clegane",
+      "alias": "The Hound",
+      "canWight": true
+    },
+    {
+      "name": "Gregor Clegane",
+      "alias": "The Mountain",
+      "canWight": true
+    },
+    {
+      "name": "Samwell Tarly",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Gilly",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Baby Sam",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Missandei",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Grey Worm",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Jorah Mormont",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Lyanna Mormont",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Cersei Lannister",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Jaime Lannister",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Tyrion Lannister",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Bronn of the Blackwater",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Yara Greyjoy",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Theon Greyjoy",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Euron Greyjoy",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Lord Varys",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Ser Brienne of Tarth",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Davos of Seaworth",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Podrick Payne",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Dolorous Edd",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Tormund Giantsbane",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Gendry",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Beric Dondarrion",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Ghost",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Drogon",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Rhaegal",
+      "alias": "",
+      "canWight": true
+    },
+    {
+      "name": "Viserion",
+      "alias": "",
+      "canWight": true
+    }
+  ]
+}
